@@ -1,0 +1,44 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+  
+
+Share this on WhatsApp
+
+
+
+
+
+Civil servants in Lagos on Thursday threw caution to the wind today as they scampered for bags of rice given by the governorship candidate of the All Progressives Congress, Babajide Sanwo-Olu, at the state’s secretariat in Alausa, Ikeja.
+National Daily gathered that the APC leadership in the state had earlier given directives to all civil servants in the state to assemble at Adeyemo Bero Auditorium in Alausa, where Sanwo-Olu was expected to address them.
+On twitter, one of the workers twitted:”Sanwoolu asked to meet Civil servants in Lagos State at Adeyemo Bero Auditorium, Alausa… But we are here struggling to collect Rice. Yes! CIVIL SERVANTS!!!!
+In the video made available to National Daily, the workers were seen struggling to get the bags of rice brought into the secretariat by the Snwo-Olu campaign group.
+
+
+
+
+Share this on WhatsApp
