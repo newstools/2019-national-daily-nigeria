@@ -9,7 +9,7 @@ Reuters
 
 			
 			Post Views: 
-			88
+			86
 			
  
 
@@ -28,4 +28,4 @@ Reuters
 	            
 	            
 	            
-            tweet !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");            Previous articleFreshman Kalu fighting for Senate leadershipNext articlePDP can’t enter Aso Rock to serve Buhari papers; court rukes in interest of justice            Editor
+             !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");            Previous articleFreshman Kalu fighting for Senate leadershipNext articlePDP can’t enter Aso Rock to serve Buhari papers; court rukes in interest of justice            Editor
