@@ -1,0 +1,73 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+
+
+
+
+Warns IPOB on attack of members
+
+
+
+
+
+
+The Biafra secessionist organizations have tgreatened total war to protect  their members and pursue their agitation for the Sovereign State of Biafra. The organisation’s in a statement on Wednesday, declared that they are at loggerheads over the murder of their strong supporter, Prophet Anthony Nwoko by bandits in Ugbene 2, Nike area of Enugu State.
+
+Biafra Nations Youth League, BNYL, indicted the indigenous people of Biafra, IPOB, for murder of the Pro Biafra supporter. The League narrated that Prophet Nwoko who strongly opposed Nnamdi KANU, IPOB leader,  had earlier raised alarm over death threats to his life by the group, Nationwide Leader of BNYL, Comrade Princewill C Richard, was gathered to have said in a video broadcast on BBS TV online channel that he carried out an investigation on the killing of Nwoko and  pursuediscovered that the killers are not outsiders but within the Biafra community. He said that findings show that the Enugu State IPOB Chief Security is directly involved in the killing, alleging that  he masterminded the killing. Comrade Richard said that the Biafra Youht League is already on the hunt of the said Chief Security and his gangs.
+
+
+
+ALSO READ: Buhari in Lagos : ‘Tinubu is an Enemy to Yoruba race’
+
+Defiant BNYL’s leader accused the IPOB Leader Nnamdi Kanu and his deputy, Uche Mefor, of arrogance and disrespect to the Biafran agitators, a behavior, he said, his followers are sheepishly following. Richard, however, noted that it is not clear whether the IPOB leader ordered the murder of Anthony Nwoko until the killers are caught and made to confess.
+
+BNYL decried  that similar incidence occurred in Port Harcourt, Rivers State, where one of their colleague named Cosmos George Oto’obong and an Abia State lady were invited to a peace meeting by IPOB which they went and were rounded up, tortured and left half dead in the bush.
+
+He wondered that the IPOB lions could not do anything to stop the Fulani herdsmen killing in the southeast but could turn their barrels on their people.
+
+Princewill Richard warned of a possible rival activities between his group and IPOB if death threats to individuals with different opinions and the assassinations continues.
+
+Watch Video
+https://youtu.be/VlpFbQ7Crik
+
+
+
+
+
+
+
+
+
+
+			
+			Post Views: 
+			240
