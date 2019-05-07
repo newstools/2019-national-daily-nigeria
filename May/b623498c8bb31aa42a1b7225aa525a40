@@ -1,0 +1,27 @@
+Kaspersky Lab experts at its annual Cyber Security Weekend discussed the wide spread growth of mobile payments across the globe and the many cyber risks that surround such technology, especially the recent SIM swap fraud wave which have become very common in Africa and the wider region.
+A SIM swap fraud happens when someone convinces your carrier to switch your phone number over to a SIM card that a criminal possesses.
+In some cases, there are carrier’s employees working together with criminals. By diverting your incoming SMS messages, scammers can easily complete the text-based two-factor authentication checks that protect your most sensitive accounts in financial services, social networks, webmail services and instant messengers.
+Many African countries are suited to mobile payment methods. In fact, research notes that at the end of 2017, there were 135 live mobile money services across the Sub-Saharan African region, with 122 million active accounts.
+While payment methods through mobiles offer a convenience that is hard to debate, Kaspersky Lab research shows that mobile payments and the banking system are suffering a wave of attack – mostly powered by SIM swap fraud – and people are losing their money as a result.
+This type of attack is used to not only steal credentials and capture one-time passwords (OTPs) sent via an SMS, but also to cause financial damage to victims, resetting the accounts on financial services, allowing to the fraudsters access to currency accounts not only in banks but also in fintechs and credit unions.
+Fraudsters are also using it as way to steal money using WhatsApp, loading the messages in a new phone, contacting the victim’s contacts asking for money, simulating an emergency situation.
+“Despite financial inclusion services prospering, the flip side to this is that it opens up a world of opportunities to cybercriminals and fraudsters who are using the convenience a mobile phone offers to exploit and poke holes in a two-factor authentication processes. Frauds using SIM swap are becoming common in Africa and Middle East, affecting countries like South Africa, Turkey and UAE.
+Countries like Mozambique have experienced this firsthand. The implemented solution, by banks and mobile operators in Mozambique, as a result, is something I believe we must learn from and encourage other regions to investigate and apply, among other aspects, to mobile payment methods of the future – as a way to ensure that mobile phones do not become an enemy in our pockets,” said Fabio Assolini, Senior Security Researcher of Kaspersky Lab.
+The total money lost in the attacks varies by country: there are extreme cases, such as one in the United Arab Emirates, where one victim lost $ 1 million, while in South Africa one victim reported losing $ 20,000.
+“In average fraudsters can steal $2,500 to $3,000 per victim, while the cost to perform the SIM swap starts with $10 to $40,” conclude Assolini.
+In order to protect the growing mobile digital life and payment methods, Kaspersky Lab recommends the following key considerations: Voice and SMS methods avoided as authentication methods for payments – OTPs in mobile apps like Google Authenticator or the use of physical tokens should be used.
+ALSO READ: Fraudsters shifting focus to Mobile phone attacks
+Biometrics – there is no better authentication than that of a physical characteristic. Voice authentication is an option that can be investigated further.
+An automated ‘Your number will be deactivated’ message – to be shared upon SIM swap request. This will support the user to report the activity, if it is not legitimate, faster.
+Activate 2FA on WhatsApp – in an attempt to minimize WhatsApp hijacking, activating Two-factor authentication using a six-digit PIN on your device is critical. This supports the user in having an additional layer of security on the device.
+
+
+
+
+
+
+
+
+			
+			Post Views: 
+			39
