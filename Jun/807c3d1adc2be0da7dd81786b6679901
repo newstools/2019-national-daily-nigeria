@@ -1,0 +1,19 @@
+Security researchers from Microsoft have warned users that there is a new ongoing spam campaign spreading malicious files.
+The warning concerns certain emails carrying RTF documents that could infect the user with a Trojan. Apart from opening the document, no further interaction is needed to be infected.
+Microsoft believes the campaign is targeting European users, given that many of the spam messages were written in European languages.
+“In the new campaign, the RTF file downloads and runs multiple scripts of different types (VBScript, PowerShell, PHP, others) to download the payload,” the Microsoft Security Intelligence team said.
+ALSO READ: $4.7b capital boost coming for DisCos
+The good news is – the Trojan’s command and control server is offline at the moment. Still, it may come back online at any time, so extra caution is advised.
+The vulnerability itself is dubbed CVE-2017-11882. It uses a flaw in the older versions of the Equation Editor component that ships with Office installs, and is usually used for compatibility purposes in addition to Microsoft’s newer Equation Editor Module.
+“Office 365 ATP detects the emails and attachments used in this campaign,” Microsoft said in a tweet.
+
+
+
+
+
+
+
+
+			
+			Post Views: 
+			47
