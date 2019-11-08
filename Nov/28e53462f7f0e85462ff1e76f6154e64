@@ -1,0 +1,57 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+
+ 
+
+
+By Ediale Kingsley
+To the astonishment of all who attended the National Credit Reporting Conference and Concert event this past weekend, the host and Chair-lady of the event didn’t know who Davido is. The Master of Ceremony for the event, Nedu invited the woman to the stage and asked her if she knew Burna Boy, Davido, Wizkid, Olamide, and Naira Marley.
+It was quite funny and dramatic when she said she knew Burna Boy, Olamide and Wizkid but didn’t know Naira Marley and Davido. The quiz ended in drama as the woman asked a person in the crowd if she knows Davido before eventually agreeing to know him. She even gave the ‘Chiiii’ gesture!
+See the video here:
+https://youtu.be/kJxkLUjhgMU
+It was definitely a spur of the moment issue since the woman was definitely not the average hip hop follower. So in a way, it doesn’t really suggest that Davido is less popular or not.
+The CBAN concert featured DJ Neptune, Nedu, Husband Material, and Wofai Fada. But the icing on the cake was when Nedu introduced DWM superstar, Peruzzi. Peruzzi took the evening concert to a whole new level. Taking the crowd from one super track of his to another. The President, Nigerian Association of Small and Medium Enterprises (NASME), Prince Degun Agboade, was also at the event. He was excited about the improvement of the conference. Noting how technology was well used in this edition.
+He described Micro, Small and Medium Enterprises (MSMEs) as the engine of economic growth and development, even as he urged the government to provide the necessary infrastructure to support entrepreneurs.
+Speaking to Pressmen at the function, he said CBAN and NASME were partners of the conference. He said CBAN gives the loan, and NSME spends the loan. He also hinted that this conference was particularly strategic in reducing the numbers of unbanked business owners in Nigeria. He said this unregistered
+The November 1 event was produced by McErnest 360 Media. The Conference and Concert event included an interactive session with the Credit Bureaus and prominent speakers from various business genres. There was also be a Masterclass with a selected number of Online Lenders.
+What also fascinated the attendees was the Exhibition room with a selected number of companies that attended to participants. In delivering the vote of thanks, First Central Credit Bureau Limited’s Managing Director/CEO, Mobolanle Adesanya, appreciated all that graced the occasion and the various experts that handled sessions in the event.
+In other news, Davido’s second baby mama, Amanda, just recently posted on social media about her fears for being a black woman in the world. She made this statement so as to draw the needed attention to a serious life-threatening issue that is currently affecting ladies in Georgia, USA.
+According to her, Sex Trafficking has become a terrible culture in the area and ladies need to be safe and cautious of where they go.
+In her post on IG, Amanda shared a story alleging that black girls and little boys are targeted victims of the crime and added that being a black woman with little sisters who are teenagers scares her a lot. She said sex trafficking is on the rise in Georgia where she stays and has advised young women to be safe out there.
+Amanda is a mother of one.
+
+
+
+
+			
+			PV: 
+			0
