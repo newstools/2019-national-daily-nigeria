@@ -1,0 +1,53 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+
+ 
+
+
+By Ediale Kingsley,
+Many just couldn’t have guessed that top Nollywood thespian, Shafi Bello, was once a singer. Now what will even blow your mind is when you see this amazing video that went viral on Facebook recently.
+An old music video of 1997 that featured the light-skin beauty popped out of nowhere and wowed many people (especially those old enough to have listened or watched the video old 1997). The owner of this particular music is Seyi Sodimu and title of the amazing hit is ‘Love Me Jeje’. Apparently, this was Shafy’s first shot at showbiz. And the video certainly held many spellbound in the days it got massive airplay.
+Shafi must have met Seyi in the United States of America where she completed her education before deciding to venture in the arts and entertainment. Seyi travelled to the United States in the late 1980s to continue his education. Shafi started with a Yoruba film, Eti Keta. And then starred as Joanne Lawson in the TV series Tinsel and as Adesuwa in Taste of Love. Shafy has since become a household name. And this music video truly explains that she was prepared for showbiz.
+See music video here:
+
+According to Wikipedia, Seyi Sodimu (also known as Mr. Jeje or Seyi) was a reigning star then. He had to save up enough money to release his first album entitled Born in Afrika in 1998, which contained the hit song “Love me jeje, love me tender”. The album topped the charts in Nigeria on Ray Power 100 FM and sold over 30,000 copies in the first weeks of its release. The album also earned him nominations and awards in Nigeria.
+When Pressmen asked her, how lucrative Love Me Jeje was? She said it was awesome. According to her it was beyond their expectations they had. They understood the song was a hit after they were done with it but they never knew it was going to become a phenomenon. So much so, it was able to survive a whole generation, even though it was a mix of English and Yoruba. “It started an era really. We didn’t know it would be a hit but we thank God for it. Even the remix came out and did great”.
+In 2007, Shafi had an album titled Give Him The Praise. She toured Europe and Nigeria with the audio and also shot a video but when she returned to Nigeria, acting was where the, “Lord led me. I’m not done with music and right now, I’m still nurturing that”.
+As for Seyi, he believes the song was a blessing to him, “the name, Seyi Sodimu will be a permanent imprint in the Nigerian Music Industry, because I believe I was one of the pioneers of the new Nigerian sound with Love Me Jeje. Music has also given me an outlet to talk about current issues as well as things I care about. It also allows me to reach and impact people’s lives” he said.
+It may also interest you to know that both stars have separate families but same number of kids (two).
+
+
+
+
+			
+			PV: 
+			0
