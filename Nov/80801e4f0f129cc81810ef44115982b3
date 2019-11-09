@@ -1,0 +1,49 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+
+ 
+
+There was utter confusion at the popular Ikosi-Ketu Fruit Market in Lagos on Friday as council officials escorted by policemen from the Lagos State Environmental and Special Offences Enforcement Unit (taskforce) stormed the market to enforce the demolition of the market.
+The demolition of the market, also known as Jakande Market, started around 10am, and was meant to pave way for the reconstruction of a N2.8bn modern market in the area.
+It was gathered that traders and angry youths initially resisted the demolition, claiming that they were not notified that the exercise would hold on Friday.
+Some protesters were said to have hauled objects at the police who responded by shooting into the air and firing teargas canisters to disperse the crowd.
+Several people reportedly sustained injuries in the ensuing commotion which led to gridlock on Ikorodu Road for hours.
+Some traders, who arrived at the market earlier, were able to rescue some of their wares, but many others were prevented from gaining access into the market.
+Some of the traders lamented that they were informed about the demolition some time ago, adding that they were not told it would be pulled down on Friday.
+One of the coordinators of the Oodua Peoples Congress in the area, Adebowale Adetona, said, “We were informed of the demolition some weeks ago, but they did not notify us the market would be demolished today (Friday).”
+It was learnt the Ikosi-Isheri Local Council Development Area had reportedly awarded the reconstruction of the market to Total Value Integrated Service Limited.
+But the Managing Director, Total Value Integrated Service Limited, Chris Onyekachi, told journalists that the traders were given adequate notice to vacate the market for redevelopment, saying that several meetings were held with the traders union, traditional rulers and council members on the proposed reconstruction of the market.
+He said, “We gave them notice three weeks ago which has expired and we gave them another seven days’ notice to move their wares to other areas of the market. They are aware.
+
+			
+			PV: 
+			0
