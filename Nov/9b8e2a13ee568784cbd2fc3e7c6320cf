@@ -1,0 +1,80 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+
+
+Nigerian born, Lebanese by blood, Joe Alfred Abdallah is a Creative Artist who is a Sarcastic sapiosexual who suffers no fools. This was highly apparent when he join the Big Brother housemates in the most recent  PepperDem season 4 where he was a major Antagonist.
+
+Best known for his Perfectly groomed and curled Moustache, he became the Herbert Macaulay Moustache guy who never failed to create entertaining moments when he was on screen. He is also well known for his black hat and shades that complete his dark mystical look. Presently styled by Ouch Clothing and Bland2Glam wrist bracelets, he is steadily becoming a style icon.
+
+Creatively showcasing the Nigerian Coat of arms with soy sauce, coffee, beetroot and Pepsi was just a little snippet of what Joe can do with his Hands. That task was viewed by over a million viewers and brought just one of his numerous gifts to the limelight.
+
+
+Also a trained Masseuse, Joe’s hands work like magic, on soothing tense muscles into submission.
+
+Partnering with Numerous Spas accross he country,  his Upcoming Spa Tour will see him provide this service  to a limited number of pre registered clientele who will receive the Massage of a lifetime. So far the Rejuvenee spa In GRA Ikeja, is locked down as the first location for Joe’s Exclusive spa treatment.
+BadHuman Bodyworks is a seasonal offering, but important to Joe because he has always wanted to help people find a relaxation point.
+
+https://youtu.be/nOrgSER6HCk
+https://youtu.be/6l5TDlB0598
+
+Born in Ibadan ,Oyo state, there is no truly limit to what his hands can do.
+His Degree in Sociology from university of Ibadan did nothing to stop him expressing himself through various artforms.
+
+Joe Abdallahs artistic oeuvre encompasses visual paintings, (graffiti & murals ) ,prop creation, space management and miniature sculptural works as well as of modern architectural illustration.
+
+
+https://youtu.be/nOrgSER6HCk
+https://youtu.be/6l5TDlB0598
+
+
+He gradually learnt the process  of recreation at a young age and started to design and create of props with any available material he could find.
+
+More recently, he has worked on stage and set design, Extra large graffiti art which is often a reflection of hidden thought. A Joe Abdallah canvas painting is a full representation of his love of nature and human growth.
+
+He Hopes to start a tour of Nigerian Primary schools where he teaches special art classes for kids under 12years old the basics of creative art.
+Privately guided by his mother and studying his father’s library of encyclopedias, his early school years in Ibadan saw him make still life paintings with water color and build his own toys out of crafboards and foil.
+Joes company BH Designs is company that deals in production and sales of artwork and designs of visual art, body arts and movie props, art procurment and supply.
+For a multi-talented guy like joe with over a decade of experience in commercial arts practice there is no end to his creativity and his partnership with TVCs Titilayo Oyinsan will surely speed up his journey to success.
+
+See links below for videos Joe’s Skill and a Masseuse
+
+https://youtu.be/6l5TDlB0598
+https://youtu.be/nOrgSER6HCk
+
+
+
+
+
+
+			
+			PV: 
+			0
