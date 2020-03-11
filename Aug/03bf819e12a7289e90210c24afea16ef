@@ -1,0 +1,45 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+
+
+Former Niger Delta militant leader, Asari Dokubo, has described Nnamdi Kanu, leader of the Indigenous People of Biafra, IPOB, as an “ingrate and Frankenstein Monster”.
+In a video posted on his facebook page on Monday, Dokubo lambasted Kanu over the attack on former Deputy Senate President, Senator Ike Ekweremadu, by some IPOB members in Germany, over the weekend.
+He lamented that Ekweremadu, who helped Kanu secure bail, would be attacked by IPOB members.
+Asari said: “Fellow Biafrans, I saw this coming that a fellow Frankenstein Monster was being created. I saw the signal, saw the red flag and I warned that if something is not done about Nnamdi Kanu, he would consume the Igbo people.
+“I took time after the latest attack on one of our finest and best lawmaker, Ike Ekweremadu, who I know very well was one of those who made this ingrate called Nnamdi Kanu to come out of prison. I’m privy to most of the discussion and I feel very sad that I was part of those meetings.
+“Ekweremadu and Abaribe were the arrow heads that moved for the release of this ingrate called Nnamdi Kanu. That Ekweremadu will be attacked, disgraced and his clothes torn for what purpose and to achieve what is unexplainable.
+“If this dangerous trend is stopped among Igbo Biafrans, where one man abrogate to himself the right to give life and pronounce death, then he will be in fire because others will fight him.
+“Fulani herdsmen are killing people and I have not heard cowardly IPOB raising their hands to defend the South East, it’s only to sneak in the night and kill fellow Igbo Biafrans.
+“Shame on all those supporting it, what contribution did Nnamdi Kanu’s father or mother gave to the Biafra liberation struggle, who is Nnamdi and his father. If he don’t rise up against this evil and send this miscreant out of our house, this is the time to send them out.”
+
+
+			
+			PV: 
+			0
